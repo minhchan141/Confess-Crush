@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi cho....",
-    introTitle: 'Mizu-chan',
+    introTitle: 'Con đĩ Trọng',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -12,9 +12,9 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Còn làm gì mà không gửi link fb cho mình:>',
+    reply: 'vì mông mày ngon',
+    mess: 'Mình biết mà 🥰. đồ dâm đãng 😘😘',
+    messDesc: 'cút mẹ m đi',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
